@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "uxg",
+    "repo": "adnmanai/openapi",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
